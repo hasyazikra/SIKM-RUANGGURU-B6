@@ -1,0 +1,2 @@
+# SIKM-RUANGGURU-B6
+Repository for Ruangguru Camp INTEGRASI AI DALAM PENGEMBANGAN APLIKASI BACKEND ENGINEERING assignments and final projects
